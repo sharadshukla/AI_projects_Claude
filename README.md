@@ -68,4 +68,4 @@ Open [http://localhost:3000](http://localhost:3000)
 
 ## Claude Learning Tips
 
-![Controlling Context](assets/controlling-context.png)
+![Controlling Context](images/controlling-context.png)
