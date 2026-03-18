@@ -76,3 +76,8 @@ SO in this scenario, all the instructions are embedded within /audit command.
 
 And whenever, this command is triggered, all the instructions will be followed.
 These custom commands can have some argument declared inside their respective .md file. This arguement can be passed to custom command in the runtime ( for eg. /audit $arguement)
+
+# Source Code - Queries
+Steps to build a hook:
+<img width="1265" height="596" alt="image" src="https://github.com/user-attachments/assets/353227db-fed9-4801-8d5c-e373fa1a6777" />
+
