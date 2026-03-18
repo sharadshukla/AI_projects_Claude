@@ -81,3 +81,6 @@ These custom commands can have some argument declared inside their respective .m
 Steps to build a hook:
 <img width="1265" height="596" alt="image" src="https://github.com/user-attachments/assets/353227db-fed9-4801-8d5c-e373fa1a6777" />
 
+Some important info. from hooks:
+https://anthropic.skilljar.com/claude-code-in-action/312427
+
