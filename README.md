@@ -69,3 +69,10 @@ Open [http://localhost:3000](http://localhost:3000)
 ## Claude Learning Tips
 
 ![Controlling Context](images/controlling-context.png)
+
+### custom caommands:
+The custom commands can be created using relevant instruction .md files ( for eg. .claude/commands/audit.md )
+SO in this scenario, all the instructions are embedded within /audit command.
+
+And whenever, this command is triggered, all the instructions will be followed.
+These custom commands can have some argument declared inside their respective .md file. This arguement can be passed to custom command in the runtime ( for eg. /audit $arguement)
